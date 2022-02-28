@@ -14,5 +14,7 @@
 - Testing dataset
 
 模型使用 BERT 的改良版 RoBERTa 進行 Fine-tuning，預訓練模型及相關的資料處理工具來自於 [Hugging Face](https://huggingface.co/)，因此需要預先安裝：  
-  pip install transformers[sentencepiece]  
-  pip install datasets
+'''
+pip install transformers[sentencepiece]  
+pip install datasets
+'''
