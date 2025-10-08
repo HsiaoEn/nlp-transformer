@@ -1,6 +1,6 @@
 # Fine-tuning BERT for Text Classification
 
-這是一篇使用 Transformation 做中文文本分類的 Notebook，整個任務的流程可分為：
+這是一篇使用 BERT 做中文文本分類的 Notebook，整個任務的流程可分為：
 
 1. Data Preprocessing 
 2. Modeling
